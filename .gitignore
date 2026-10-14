@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+wheels/
+packages/
+*.whl
+*.tar.gz
